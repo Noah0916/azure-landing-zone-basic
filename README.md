@@ -19,7 +19,7 @@ Het is bedoeld als portfolio-project voor een toekomstige Cloud Engineer / Cloud
 Alle resources krijgen standaard tags:
 
 - `environment = dev`
-- `owner = willeke` (pas aan naar je eigen naam)
+- `owner = willeke` 
 - `costCenter = demo`
 
 ## Tech stack
@@ -30,9 +30,4 @@ Alle resources krijgen standaard tags:
 
 ## Gebruik
 
-> Dit project is vooral bedoeld als architectuur-voorbeeld.
-> Deployment is optioneel. Als je wél wilt deployen:
 
-1. Login in Azure CLI:
-   ```bash
-   az login
